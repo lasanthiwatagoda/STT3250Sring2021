@@ -1,0 +1,176 @@
+---
+title: "Syllabus: STT 3250 - Fundamentals of Probability"
+
+author: "Syllabus - Fall 2020"
+date: ""
+output:
+  html_document:
+    css: asu.css
+    highlight: textmate
+    theme: yeti
+---
+
+**Instructor:**  Dr. Hasthika Rupasinghe
+
+**Office:** Virtual  
+
+**Office Hours:** 
+
+<!--Questions related to the class should be addressed with the [piazza account for STT 3851](https://piazza.com/appstate/spring2018/stat3851/home).-->
+
+
+**Course Description:**  
+
+Topics include a study of sample spaces, counting rules, conditional probability and independence, random
+variables and their properties, moment generating functions, named distributions, both discrete and continuous,
+transformations, the Central Limit Theorem, covariance and correlation coefficients, order statistics, and
+multivariate probability distributions. 
+
+Prerequisite: MAT 2130
+
+**Course Objectives:**
+
+1.  *General Probability* : The Student will understand basic probability concepts.
+2.  *Univariate Random Variables* : The Student will understand key concepts concerning discrete and
+continuous univariate random variables (including binomial, negative binomial, geometric,
+hypergeometric, Poisson, uniform, exponential, gamma, normal, and mixed) and their applications.
+3. *Multivariate Random Variables* : The Student will understand key concepts concerning multivariate random
+variables (including the bivariate normal) and their applications.
+
+
+**Learning Outcomes**
+
+The Student will be able to:
+
+
+**I. General Probability**
+
+*  Define set functions, sample space, and events. Define probability as a set function on a collection of events
+and state the basic axioms of probability.
+
+
+*  Calculate probabilities of mutually exclusive events.
+
+*  Calculate probabilities using the addition and multiplication rules.
+
+*   Define independence and calculate probability of independent events.
+
+*   Calculate probabilities using combinatorics, such as combinations and permutations.
+
+*   Define and calculate conditional probabilities.
+
+*   State Bayes Theorem and use it to calculate conditional probabilities.
+
+
+**II. Univariate Random Variables**
+
+*   Explain and apply the concepts of random variables, probability and probability density functions,
+cumulative distribution functions.
+
+*   Calculate conditional probabilities.
+
+*   Explain and calculate expected value, mode, median, percentile, and higher moments.
+
+*   Explain and calculate variance, standard deviation, and coefficient of variation.
+
+*   Define probability generating functions and moment generating functions and use them to calculate
+probabilities and moments.
+
+*   Determine the sum of independent random variables (Poisson and normal).
+
+*   Apply transformations.
+
+
+**III. Multivariate Random Variables**
+
+*  Explain and perform calculations concerning joint probability and probability density functions and
+cumulative distribution functions.
+
+*   Determine conditional and marginal probability and probability density functions, cumulative distribution
+functions.
+
+*   Calculate moments for joint, conditional, and marginal random variables.
+
+* Explain and apply joint moment generating functions.
+
+* Calculate variance and standard deviation for conditional and marginal probability distributions.
+
+* Calculate joint moments, such as the covariance and the correlation coefficient.
+
+* Determine the distribution of a transformation of jointly distributed random variables. 
+
+* Determine the distribution of order statistics from a set of independent random variables.
+
+* Calculate probabilities and moments for linear combinations of independent random variables.
+
+* State and apply the Central Limit Theorem.
+
+
+
+**Course Text:**
+
+Course Text: Probability and Statistical Inference, Tenth Edition by Hogg, Tanis,Zimmerman, 
+
+**Required Resources:**
+
+Note book, notes,  pencil and  a calculator
+
+ **Homework:** Students are expected to work all assigned problems. Only selected assignments or parts of
+assignments may at times be graded. 
+
+**Quizzes:** I anticipate giving in class quizzes regularly during the semester.
+<!--The lowest quiz grade will be
+dropped when determining the final grade.-->
+
+**Tests:** Two tests will be given. The date of each test will be announced at least one week in advance.
+
+
+**Final Exam:** A final exam will be given at our assigned time. This final exam will be comprehensive, covering all
+material that is covered in the course. 
+
+
+**Attendance:** Attendance will be taken  at the end of each class. Students are expected to attend every class. A detailed description of the ASU attendance policy can be found at the following link,
+[https://academicaffairs.appstate.edu/resources/syllabi-policy-and-statement-information]
+
+**Course Grading:**
+
+* 10% of the grade will come from Homework.
+* 20% of the course grade will come from Quizzes.
+* 40% of the grade will come from the Mid-Exams.
+* 25% of the grade will come from the Final.
+* 05% of the course grade will come from Attendance.
+
+| Range | Letter Grade | Range | Letter Grade | 
+|----------------|---------------------|----------------|---------------------|
+|  92.50% and above | A | 72.50-77.49% | C  |
+| 90.00--92.49% | A– | 70.00-72.49% | C– |
+| 87.50--89.99% | B+ | 67.50-69.99% | D+ |
+| 82.50--87.49% | B | 62.50-67.49% | D |
+| 80.00-82.49% | B– | 60.00-62.49% | D– |
+| 77.50-79.99% | C+ | 59.99% and below | F |
+
+
+**Academic Integrity Policy, Disability Services, and Religious Holiday Observance:** 
+
+All students must abide by the ASU Academic Integrity Code posted at [www.studentconduct.appstate.edu/](www.studentconduct.appstate.edu/) Those seeking accommodations for a disability should contact the Office of Disability Services (ODS) at [http://www.ods.appstate.edu/](http://www.ods.appstate.edu/) or 828-262-3056.
+The statements regarding University policies for students are posted at
+[http://academicaffairs.appstate.edu/syllabi](http://academicaffairs.appstate.edu/syllabi)
+
+
+
+
+
+
+ 
+
+
+
+**University Policies**
+
+This course conforms with all Appalachian State University policies with respect to academic integrity, disability services, and class attendance.  The details of the policies may be found at <http://academicaffairs.appstate.edu/resources/syllabi>.
+
+
+
+***
+
+#[Home Page](http://hasthika.github.io/STT3250/) - 
