@@ -7,7 +7,7 @@ output:
     highlight: textmate
     theme: yeti
     toc: true
-    css: "asu.css"
+    css: "styles.css"
 ---
 
 ***
