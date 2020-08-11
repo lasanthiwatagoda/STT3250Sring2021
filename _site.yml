@@ -12,7 +12,7 @@ navbar:
     - text: "Hasthika Rupasinghe"
       href: https://hasrhika.github.io 
     - icon: fa-github fa-lg
-      href: https://github.com/Lasanthi-ASU/STT3851ClassRepo/         
+      href: https://github.com/Hasthika/STT3250/         
 output:
   html_document:
     theme: yeti
