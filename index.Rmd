@@ -1,0 +1,25 @@
+---
+title: "Welcome"
+---
+
+
+* The course syllabus is stored in the [`Syllabus`](./Syllabus/STT3250Fall2019Syllabus.html) directory of the STT 3851 repository.
+
+* Course pacing and assignments are stored in the [`Assignments`](./Assignments/AssignmentsSTT3250Fall2019.html) directory of the STT 3851 repository.
+
+
+* Click [here](https://goo.gl/forms/uVbDu3i5ZubmS6BG2) to record your attendance.
+
+ <!--* [Flow Control](./Rmarkdown/FlowControl.html)-->
+
+<!--* [The Bootstrap](./Rmarkdown/TheBootstrap.html)-->
+
+***
+
+## Resources you may find helpful
+
+* 
+
+
+
+* * *
