@@ -14,7 +14,7 @@ output:
 
 **Office:** Virtual  
 
-**Office Hours:** 
+**Office Hours:** 9:30am --- 11:30am TR or by appointment
 
 <!--Questions related to the class should be addressed with the [piazza account for STT 3851](https://piazza.com/appstate/spring2018/stat3851/home).-->
 
@@ -113,7 +113,9 @@ Course Text: Probability and Statistical Inference, Tenth Edition by Hogg, Tanis
 
 **Required Resources:**
 
-Note book, notes,  pencil and  a calculator
+Note book, notes,  pencil and  a calculator.
+
+As we are trying to make this experience as close to a regular class as possible, interactivity is important. Therefore you are required to have your \textbf{video} \textbf{camera} \textbf{on} and actively participate in all the class discussions.
 
  **Homework:** Students are expected to work all assigned problems. Only selected assignments or parts of
 assignments may at times be graded. 
@@ -172,5 +174,3 @@ This course conforms with all Appalachian State University policies with respect
 
 
 ***
-
-#[Home Page](http://hasthika.github.io/STT3250/) - 

@@ -2,13 +2,23 @@
 title: "Welcome"
 ---
 
+***
+
+## **syllabus and Course pacing**
 
 * The course syllabus is stored in the [`Syllabus`](STT3250Fall2020Syllabus.html) directory of the STT 3250 repository.
 
 * Course pacing and assignments are stored in the [`Course pacing`](CoursePacing.html) directory of the STT 3250 repository.
 
+***
 
-* Click [here](https://goo.gl/forms/uVbDu3i5ZubmS6BG2) to record your attendance.
+## **Class Meetings**
+
+* [`Click here to go to class`](https://appstate.zoom.us/j/97258906066?pwd=QjBxK3FsT3NBYWtHZTQ2d2tHaUNadz09) --- Password: 643391 if required
+* [`Click here to go to office hours (9:30 - 11.30 am, T and R)`](https://appstate.zoom.us/j/93441425949?pwd=aFgvbUhzZS9RbTlPcXlKcnRCRzhMdz09) --- Password: 063714 if required
+
+
+* Click [`here`](https://forms.gle/542d9vgUMF9qhvGC9) to record your attendance.
 
  <!--* [Flow Control](./Rmarkdown/FlowControl.html)-->
 
