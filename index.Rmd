@@ -4,7 +4,7 @@ title: "Welcome"
 
 ***
 
-## **syllabus and Course pacing**
+## **Syllabus and Course pacing**
 
 * The course syllabus is stored in the [`Syllabus`](STT3250Fall2020Syllabus.html) directory of the STT 3250 repository.
 
