@@ -140,6 +140,3 @@ output:
 
 ***
 
-
-
-#[Home Page](http://hasthika.github.io/STT3250/index.html) - [Syllabus](https://hasthika.github.io/STT3250/Syllabus/STT3250Fall2020Syllabus.html) {-}  

@@ -16,6 +16,8 @@ output:
 
 **Office Hours:** 9:30am --- 11:30am TR or by appointment
 
+[`Click here to go to office hours`](https://appstate.zoom.us/j/93441425949?pwd=aFgvbUhzZS9RbTlPcXlKcnRCRzhMdz09) --- Password: 063714 if required
+
 <!--Questions related to the class should be addressed with the [piazza account for STT 3851](https://piazza.com/appstate/spring2018/stat3851/home).-->
 
 

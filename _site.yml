@@ -4,13 +4,13 @@ navbar:
   title: "STT 3250"
   left:
     - text: "Resources"
-      href: https://hasrhika.github.io/resources.html
+      href: https://hasthika.github.io/resources.html
     - text: "For Students"
-      href: https://hasrhika.github.io/for-students.html
+      href: https://hasthika.github.io/for-students.html
 
   right:
     - text: "Hasthika Rupasinghe"
-      href: https://hasrhika.github.io 
+      href: https://hasthika.github.io 
     - icon: fa-github fa-lg
       href: https://github.com/Hasthika/STT3250/         
 output:
