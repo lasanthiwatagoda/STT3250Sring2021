@@ -111,7 +111,9 @@ functions.
 
 **Course Text:**
 
-Course Text: Probability and Statistical Inference, Tenth Edition by Hogg, Tanis,Zimmerman, 
+Course Text: Probability and Statistical Inference, nineth Edition by Hogg, Tanis,Zimmerman.
+
+Download PDF textbook [`here`](2350text.pdf)
 
 **Required Resources:**
 
