@@ -113,7 +113,7 @@ functions.
 
 Course Text: Probability and Statistical Inference, nineth Edition by Hogg, Tanis,Zimmerman.
 
-Download PDF textbook [`here`](2350text.pdf)
+Download PDF textbook [`here`](3250text.pdf)
 
 **Required Resources:**
 
