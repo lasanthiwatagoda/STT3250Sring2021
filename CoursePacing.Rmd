@@ -48,6 +48,7 @@ output:
 
 **Week 3: (Aug 31 -- Sep 04)**
 
+* Chapter 1: Introduction to Probability (1.4, 1.5)
 * Chapter 2: Discrete Distributions (2.1, 2.2, 2.3)
 * In Class Quiz 03 (Thursday, last 20 min of class)
 * [Homework 3: Due Wednesday the 9th](Homework.html)
