@@ -1,0 +1,93 @@
+---
+title: "HW1 Solutions"
+author: "Dr. H"
+date: "8/30/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Section 1.1
+
+1) Let, $T$ - Physical Therapist, $C$ - Chiropractor
+
+28% visit both a physical therapist:
+
+$$P(T \cap C) = 0.28$$
+
+Problem say that the probability of visiting a physical therapist
+exceeds the probability of visiting a chiropractor by 16%, we write:
+
+\begin{equation}
+P(T) = P(C) + 0.16
+\end{equation}
+
+Using the fact that 8% visit neither,  
+$$P((T \cup C)') = 0.08$$ therefore $$P(T \cup C) = 0.92$$
+
+Using $P(T \cup C) = P(T) + P(C) - P(T \cap C)$ we get $0.92 = P(T) + P(C) - 0.28$
+
+Now find $P(C)$ from the second equation and subtitude; we get $0.92 = P(T) + P(T) - .16 - 0.28$, simplyfy $P(T) = 0.68$
+
+***
+
+4) a) $S = \{HHHH,....,TTTT\}$ use the tric we learn in class to write this sample sapace. 16 outcomes.
+b) i) 5/16, 
+ii) 0, 
+iii) 11/16, 
+iv) 1/4, 
+v) 1/4, 
+vi) 9/16, 
+vii) 4/16
+
+***
+
+6) Using a Venn diagram would help
+a) $P(A \cup B) = P(A) + P(B) - P(A \cap B) = .4+.5-.3=.6$
+b) $P(A) = P(A\cap B') + P(A\cap B)$, from this we get, $.4 = P(A\cap B') + .3$, now we get, $P(A\cap B') = .1$
+c) $P(A'\cup B') = P((A\cap B)') = 0.7$
+
+***
+
+7) Using a Venn diagram would help
+
+$P(A \cup B) =0.76$, $P(A \cup B') = 0.87$
+
+$P(A) + P(B') - P((A\cap B)') = 0.87$
+
+$P(A) + P(B) - P((A\cap B)) = 0.76$
+
+By adding last two equations together we get,
+
+$2P(A) + 1 - P(A) = 1.63$, hence $P(A) = 0.63$
+
+***
+
+11) a) 1,..,36,0,00
+b) $P(A) = 2/38$
+c) $P(B) = 4/38$
+d) $P(odd) = (36/2)/38 = 9/19$
+
+***
+
+### Section 1.2
+
+2) a) 4.5.2 = 40, b) 2.2.2 = 8
+
+4) a) $\binom{4}{1}\binom{6}{3} = 80$
+b) $\binom{4}{1}2^6 = 256$
+
+***
+
+9) a) AAAA or NNNN. so 2.
+b) $\binom{4}{1}\times2 = 8$ (a different team win one of the first 4 games)
+c) $\binom{5}{2}\times2 = 20$ (a different team(s) win two of the first 5 games)
+d) $\binom{6}{3}\times2 = 40$ (a different team(s) win three of the first 6 games)
+
+***
+
+16) a) $$\frac{\binom{19}{3}\binom{52-19}{6}}{\binom{52}{9}} = \frac{102486}{351325}=0.2917$$
+
+b) $$\frac{\binom{19}{3}\binom{10}{2}\binom{7}{1}\binom{3}{0}\binom{5}{1}\binom{2}{0}\binom{6}{2}}{\binom{52}{9}} = \frac{7695}{1236664}=0.00622$$
