@@ -18,7 +18,7 @@ output:
 * Chapter 1: Introduction to Probability (1.1)
 * In Class Quiz 01 (Thursday the 20th, last 20 min of class)
 * [Homework 1: Due Wednesday the 26th](Homework.html)
-* [Homework 1 solutions](../HWsol/HW1sol.html)
+* [Homework 1 solutions](./HWsol/HW1sol.html)
 
 *Lecture Recordings:*
 
