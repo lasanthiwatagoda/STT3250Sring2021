@@ -1,0 +1,148 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage[shortlabels]{enumitem}
+
+\title{STT3250 HW2 Solutions}
+
+\date{September 2020}
+
+\begin{document}
+
+\maketitle
+
+
+\noindent
+\textbf{Section 1.3}
+
+\begin{itemize}
+
+\item [1.]
+
+\begin{enumerate}[(a)]
+    \item $P(A) = 5000/1000000$
+    
+    \item $P(A_1) = 78515/1000000$
+    
+    \item $P(A_1|B_2) = P(A_1 \cap B_2)/P(B_2) = 73630/995000$
+    
+    \item $P(B_1|A_2) = P(B_1 \cap A_2)/P(A_2) = 4885/78515$
+    
+    \item \begin{enumerate}[(1)]
+        \item Probability of a positive test when it is known that the person do not carry AIDS.
+        \item Probability of a person carrying AIDS, when a positive test result is present.
+    \end{enumerate}
+\end{enumerate}
+
+
+
+
+\item [3.]\begin{enumerate}[(a)]
+    \item $P(A_1 \cap B_1) = 5/35$
+    \item $P(A_1 \cup B_1)/P(B_1) = P(A_1) + P(B_1) - P(A_1 \cap B_1) = 12/35+19/35-5/35 = 26/35 $
+    
+    \item $P(A_1|B_1) = P(A_1 \cap B_1)/P(B_1) = 5/19$
+    
+    \item $P(B_2|A_2) = P(B_2 \cap A_2)/P(A_2) = 9/23$
+\end{enumerate}
+
+\item [5.] \begin{enumerate}[(a)]
+    \item $S = \{RR, RW, WR, WW\}$
+    \item $P(ww|white eyes) = 1/3$
+\end{enumerate}
+
+\item [7.] Let $R$ - be orange and $B$ - be blue
+
+Find the probability of getting at least one $R$. This can happen either by getting 1) $RR$ in the row (probability = $2/4\cdot1.3 = 1/6$), 2) $RB$ or $BR$ (probability = $2/4\cdot2.3 + 2/4\cdot2.3 = 2/3$). 
+
+Therefore the probability at least one $R = 1/6 + 2/3)$
+
+Now find,
+
+$P(RR|at least one R) = \frac{1/6}{1/6 + 2/3} = 1/5$
+
+
+\item [11.] \begin{enumerate}[(a)]
+    \item These $r$ students in this class can have birthdays in any given day so,
+    
+    $365\cdot 365\cdot365\cdot \dots \cdot365$,  $r$ times as there are $r$ students. Which is simply $356^r$
+    
+    \item None of the students having a same birthday.
+    
+    $365\cdot 364\cdot363\cdot \dots \cdot365 - (r+1)$,  Which is simply $^{365}P_r$.
+    
+    \item $P(\mbox{at least one birthday is shared}) = $
+    
+    $1 - P(\mbox{None of the students having a same birthday}) = $ 
+    
+    $1 - \frac{^{365}P_r}{356^r}$
+    
+    \item need a computer to calculate.
+\end{enumerate}
+
+
+\item [15.] $P(\mbox{2 same color}) = 151/300$ - given
+
+let $x$ be the number of red in the second urn.
+
+Then, the $P(RR) = \frac{8}{15}\cdot\frac{x}{x+9}$
+
+$P(BB) = \frac{7}{15}\cdot\frac{9}{x+9}$
+
+Therefore, $\frac{8}{15}\cdot\frac{x}{x+9}+\frac{7}{15}\cdot\frac{9}{x+9} = 151/300$ solve for $x$.
+
+$x = 11.$
+
+\end{itemize}
+
+\noindent
+\textbf{Section 1.4}
+
+\begin{itemize}
+    \item [1.] $A$ and $B$ independent $\implies$ $P(A \cap B) = P(A)\cdot P(B)$
+    \begin{enumerate}[(a)]
+        \item $P(A \cap B) = P(A)\cdot P(B) = 0.14$
+        \item $P(A \cup B) = P(A)+ P(B) - P(A \cap B) = 0.7+0.2-0.14 = 0.76$
+        \item $P(A'\cup B') = P((A\cap B)') = 1-P(A \cap B) = 0.86$, due to DeMorgan's law and compliment rule.
+    \end{enumerate}
+    
+    \item [3.] \begin{enumerate}[(a)]
+        \item $A$ and $B$ independent $\implies$ $P(A \cap B) = P(A)\cdot P(B) = 1/6$
+        \item $P(A) = P(A\cap B') + P(A \cap B)$, then
+        $1/4 = P(A\cap B') + 1/6$,
+        Therefore, $P(A\cap B') = 1/12$
+        
+        \item $P(A'\cap B') = P((A \cup B)') = 1 - P(A\cup B)$, find $P(A\cup B)$ and substitute. Answer is 1/4.
+        
+        \item $P(A'\cup B') = P((A \cap B)') = 1/4$ from c) above
+        
+        \item Using same logic as in b), answer is 1/2 
+    \end{enumerate}
+    
+    \item [5.] Check if $P(A\cap B) = P(A)\cdot P(B)$
+    
+    $L.H.S = 0.4$ and $R.H.S = 0.8\times 0.5 = 0.4$, YES.
+    
+    \item [7.] Done in class
+    
+    \item [9.] \begin{enumerate}[(a)]
+        \item $P(A \cap B \cap C) = P(A)\cdot P(B)\cdot P(C) = 0.36$ (because A, B and C are mutually independent)
+        
+        \item $P(A \cap B \cap C') + P(A \cap B' \cap C) + P(A' \cap B \cap C)  = $
+        
+        $P(A)\cdot P(B)\cdot P(C') + P(A)\cdot P(B')\cdot P(C) + P(A')\cdot P(B)\cdot P(C)$
+        
+        $=0.49$
+        
+        \item $P(A' \cap B' \cap C') = P(A')\cdot P(B')\cdot P(C')  = 0.01$
+
+    \end{enumerate}
+    
+    \item [17.] \begin{enumerate}[(a)]
+        \item $P(\mbox{at least one match}) = 1 - P(no match) = 1- (\frac{11}{12})^{12} = 0.648$
+        \item $P(\mbox{at least one student matches you}) = 1 - P(no match to you) = 1- (\frac{11}{12})^{11} = 0.616$
+    \end{enumerate}
+    
+\end{itemize}
+
+\end{document}

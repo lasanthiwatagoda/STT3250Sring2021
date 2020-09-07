@@ -1,0 +1,29 @@
+---
+title: "HW2sol"
+author: "Hasthika"
+date: "9/6/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+\begin{enumerate}
+\item 
+
+\begin{enumerate}
+    \item $P(A) = 5000/1000000$
+    
+    \item $P(A_1) = 78515/1000000$
+    
+    \item $P(A_1|B_2) = P(A_1 \cap B_2)/P(B_2) = 73630/995000$
+    
+    \item $P(B_1|A_2) = P(B_1 \cap A_2)/P(A_2) = 4885/78515$
+    
+    \item \begin{enumerate}
+        \item Probability of a positive test when it is known that the person do not carry AIDS.
+        \item Probability of a person carrying AIDS, when a positive test result is present.
+    \end{enumerate}
+\end{enumerate}
+\end{enumerate}
