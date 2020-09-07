@@ -33,6 +33,7 @@ output:
 * Chapter 1: Introduction to Probability (1.2, 1.3, 1.4, 1.5)
 * In Class Quiz 02 (Thursday, last 20 min of class)
 * [Homework 2: Due Friday the 04th](Homework.html)
+* [Homework 2 solutions](./HWsol/HW2sol.pdf)
 
 *Lecture Recordings:*
 
