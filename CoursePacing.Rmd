@@ -50,7 +50,7 @@ output:
 **Week 3: (Aug 31 -- Sep 04)**
 
 * Chapter 1: Introduction to Probability (1.4, 1.5)
-* Chapter 2: Discrete Distributions (2.1, 2.2, 2.3)
+* Chapter 2: Discrete Distributions (2.1)
 * In Class Quiz 03 (Thursday, last 20 min of class)
 * [Homework 3: Due Wednesday the 9th](Homework.html)
 
@@ -69,7 +69,7 @@ output:
 
 **Week 4: (Sep 07 -- 11)**
 
-* Chapter 2: Discrete Distributions (2.4, 2.5)
+* Chapter 2: Discrete Distributions (2.2, 2.3)
 * In Class Quiz 04 (Thursday, last 20 min of class)
 * [Homework 4: Due Wednesday the 16th](Homework.html)
 
@@ -81,10 +81,10 @@ output:
 
 **Week 5: (Sep 14 -- 18)**
 
-* Chapter 2: Discrete Distributions (2.6)
+* Chapter 2: Discrete Distributions (2.4, 2.5, 2.6)
 * In Class Quiz 05 (Thursday, last 20 min of class)
 * [Homework 5: Due Wednesday the 23th](Homework.html)
-* Review for test 1
+
 
 ***
 
