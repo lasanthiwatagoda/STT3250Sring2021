@@ -96,13 +96,16 @@ output:
 * [Thursday's Recording](https://appstate.zoom.us/rec/share/dD8cH_jxSjN2K7u6PifocFGulQZ5dI5Q9odBmhijoOjjKfalhTuBo_vX9MqFPoW8.lgFoG1C0mNJludKC)
 
 
+*Office hours Recordings:*
+
+* [Thursday's Office hours](https://appstate.zoom.us/rec/share/rClp4p9y5HyNmF4x-m-q8JylIigdeLSOt5kZbN7IE5BErLN0XR7C-noxMZa3MtQm.guWqyZWaGSsbiGfF)
+
 ***
 
 **Week 6: (Sep 21 -- 25)**
 
-* *Test 01: Tuesday the 1st of Sep. 22nd and Covers Ch 1 and 2.*
+* *Test 01: Thursday the Sep. 24th and Covers Ch 1 and 2.*
 
-* In Class Quiz 06 (Thursday, last 20 min of class)
 * Chapter 3: Continuous Distributions (3.1)
 * [Homework 6: Due Wednesday the 30th](Homework.html)
 
@@ -111,7 +114,7 @@ output:
 **Week 7: (Sep 28 -- Oct 02)**
 
 * Chapter 3: Continuous Distributions (3.2)
-* In Class Quiz 07 (Thursday, last 20 min of class)
+* In Class Quiz 06 (Thursday, last 20 min of class)
 * [Homework 7: Due Wednesday the 07th](Homework.html)
 
 
