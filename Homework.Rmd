@@ -59,12 +59,14 @@ output:
 
 ***  
 
+ 
+* *Homework 7*: Due Wednesday, October 7th.
+    * Sec 3.2 - 1, 2, 3, 5, 8, 11, 13, 14, 16, 21 
+
+***    
 <!-- 
 
-***   
-* *Homework 7*: Due Thursday, October 17th.
-    * Sec 3.2 - 1, 2, 3, 5, 8, 11, 13, 14, 16, 21 
-    
+
 ***   
 * *Homework 8*: Due Wednesday, October 23th.
     * Sec 3.3 - 1, 2, 3, 5, 7, 9b), 11, 13
