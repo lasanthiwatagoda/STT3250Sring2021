@@ -61,17 +61,21 @@ output:
 
  
 * *Homework 7*: Due Wednesday, October 7th.
-    * Sec 3.2 - 1, 2, 3, 5, 8, 11, 13, 14, 16, 21 
+    * Sec 3.2 - 1, 2, 3, 5, 8, 11 (skip parts d and e), 13 (skip part d), 14, 16, 21 
 
 ***    
-<!-- 
+
+
+* *Homework 8*: Due Wednesday, October 14th.
+    * Sec 3.3 - 1, 2, 3, 5, 7, 9b), 11, 13 
+    * Sec 4.1 - 1, 3, 5
+    * One page summary of discrete distributions from Chapter 2
+    * One page summary of continuous distributions from Chapter 3
 
 
 ***   
-* *Homework 8*: Due Wednesday, October 23th.
-    * Sec 3.3 - 1, 2, 3, 5, 7, 9b), 11, 13
-    * Sec 4.1 - 1, 3, 5
-    
+<!-- 
+
 ***   
 * *Homework 9*: Due Wednesday, October 30th.
 
