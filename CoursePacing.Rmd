@@ -137,6 +137,7 @@ output:
 
 * Chapter 3: Continuous Distributions (3.3)
 * Chapter 4: Bivariate Distributions (4.1)
+* In Class Quiz 07 (Thursday, last 20 min of class)
 * [Homework 8: Due Wednesday the 14th](Homework.html)
 
 ***
