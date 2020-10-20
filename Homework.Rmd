@@ -75,7 +75,7 @@ output:
 
 ***   
 
-* *Homework 9*: Due Wednesday, October 23rd.
+* *Homework 9*: Due Friday, October 23rd.
 
     * Sec 4.2 - 1, 3 a), 6(only a,b,c,and d), 9
     * Sec 4.3 - 1, 6, 9

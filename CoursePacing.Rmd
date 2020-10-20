@@ -148,7 +148,7 @@ output:
 
 ***
 
-**Week 9: (Oct 12 -- Oct 16)**
+**Week 9: (Oct 12 -Friday Oct 23)**
 
 * Chapter 4: Bivariate Distributions (4.2, 4.3)
 * In Class Quiz 08 (Thursday, last 20 min of class)
