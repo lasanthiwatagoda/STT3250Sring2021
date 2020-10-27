@@ -166,7 +166,6 @@ output:
 **Week 10: (Oct 19 -- Oct 23)**
 
 * Chapter 4: Bivariate Distributions (4.4)
-* Chapter 5: Distributions of Functions of Random Variables (5.1)
 * In Class Quiz 09 (Thursday, last 20 min of class)
 * [Homework 10: Due October 30th](Homework.html)
 
@@ -174,7 +173,7 @@ output:
 
 **Week 11: (Oct 26 -- Oct 30)**
 
-* Chapter 5: Distributions of Functions of Random Variables (5.2, 5.3)
+* Chapter 5: Distributions of Functions of Random Variables (5.1, 5.2, 5.3)
 * In Class Quiz 10 (Thursday, last 20 min of class)
 * Review for exam 2
 
@@ -183,7 +182,7 @@ output:
 
 **Week 12: (Nov 02 -- Nov 06)**
 
-* *Test 02: Tuesday the 12th of Nov. Covers Ch 3 and Ch4.*
+* *Test 02: Thursday the 5th of Nov. Covers Ch 3 and Ch4.*
 * Chapter 5: Distributions of Functions of Random Variables (5.4)
 
 
