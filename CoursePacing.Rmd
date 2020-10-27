@@ -148,7 +148,7 @@ output:
 
 ***
 
-**Week 9: (Oct 12 - 23)**
+**Week 9: (Oct 12 - 19)**
 
 * Chapter 4: Bivariate Distributions (4.2, 4.3)
 * In Class Quiz 08 (Thursday, last 20 min of class)
@@ -156,9 +156,9 @@ output:
 
 *Lecture Recordings:*
 
-* [Tuesday's Recording]()
-* [Wednesday's Recording]()
-* [Thursday's Recording]()
+* [Tuesday's Recording](https://appstate.zoom.us/rec/share/ZSDWWLdGWEZnSz6i2XiuxzsxYj9gpwQMQlEvDdMTmh52V3dM8uG8GyGT709cBjFJ.CGuFT8hScb-nGbkg)
+* [Wednesday's Recording](https://appstate.zoom.us/rec/share/LrkIq-RkafgQbCDhJFeXZASzIlO4gvnw_ah3-EYOxYiQhD5e7WUP4FciTeiRAwjR.WCsbHBgqhrS3Azo7)
+* [Thursday's Recording](https://appstate.zoom.us/rec/share/DleB0txRNarMat0qpvfgYCYaYd53Q0TSGrFiCFqlPD0fU9g8qpOVQ5tVuCmKurjk.v5BIWtIAXaWnExG1)
 
 
 ***
@@ -169,6 +169,14 @@ output:
 * In Class Quiz 09 (Thursday, last 20 min of class)
 * [Homework 10: Due October 30th](Homework.html)
 
+*Lecture Recordings:*
+
+* [Tuesday's Recording](https://appstate.zoom.us/rec/share/mwDTGPGoFIINgmYNXK_fLo8RAXbW1WTEZGUV4Qliwr-KtXFnnP4FyRi_AZooGOUK.2ho1q_whXKvuhtm4)
+* [Wednesday's Recording](https://appstate.zoom.us/rec/share/BwexTFqlveuZ1-iQaH8F5BcGAdQKr9jkI5PbUYyzXbhH75yvfoNlJ6CKe9sOtQY.n4SgA1n99ygtLWHv)
+* [Thursday's Recording](https://appstate.zoom.us/rec/share/qmCcz3Y45_LEHszbI5layXIoz6UXfJAqMwJQOJkTTXbV0bnKfpzfskPVL1AflWOJ.U53U17ORBvh5WJaK)
+
+
+
 ***
 
 **Week 11: (Oct 26 -- Oct 30)**
@@ -177,6 +185,11 @@ output:
 * In Class Quiz 10 (Thursday, last 20 min of class)
 * Review for exam 2
 
+*Lecture Recordings:*
+
+* [Tuesday's Recording](https://appstate.zoom.us/rec/share/y2k9RzPFA1d_SqwWFdkctvDsSzUchqH7DYteDPJhN89fR754zOkDMWeG31z5X0f5.cbe8Qt5dlPG4u_kS)
+* [Wednesday's Recording]()
+* [Thursday's Recording]()
 
 ***
 
