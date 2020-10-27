@@ -148,11 +148,18 @@ output:
 
 ***
 
-**Week 9: (Oct 12 -Friday Oct 23)**
+**Week 9: (Oct 12 - 23)**
 
 * Chapter 4: Bivariate Distributions (4.2, 4.3)
 * In Class Quiz 08 (Thursday, last 20 min of class)
-* [Homework 9: Due Wednesday the 21st](Homework.html)
+* [Homework 9: Due Friday Oct 223rd](Homework.html)
+
+*Lecture Recordings:*
+
+* [Tuesday's Recording]()
+* [Wednesday's Recording]()
+* [Thursday's Recording]()
+
 
 ***
 
@@ -161,7 +168,7 @@ output:
 * Chapter 4: Bivariate Distributions (4.4)
 * Chapter 5: Distributions of Functions of Random Variables (5.1)
 * In Class Quiz 09 (Thursday, last 20 min of class)
-* [Homework 10: Due Wednesday the 28th](Homework.html)
+* [Homework 10: Due October 30th](Homework.html)
 
 ***
 
