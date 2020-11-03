@@ -198,6 +198,11 @@ output:
 * *Test 02: Thursday the 5th of Nov. Covers Ch 3 and Ch4.*
 * Chapter 5: Distributions of Functions of Random Variables (5.4)
 
+*Lecture Recordings:*
+
+* [Tuesday's Recording](https://appstate.zoom.us/rec/share/4P6rVfaRKW9dqgxvGtHsTim-7m6LeeeeD9SmEn0AL01UfPjfkxUFf4NcOhvdNB76.eUwiPaoVk8bBEZO7)
+* [Wednesday's Recording]()
+* [Thursday's Recording]() - Exam 2, No recording
 
 
 ***
