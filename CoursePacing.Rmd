@@ -201,7 +201,7 @@ output:
 *Lecture Recordings:*
 
 * [Tuesday's Recording](https://appstate.zoom.us/rec/share/4P6rVfaRKW9dqgxvGtHsTim-7m6LeeeeD9SmEn0AL01UfPjfkxUFf4NcOhvdNB76.eUwiPaoVk8bBEZO7)
-* [Wednesday's Recording](https://appstate.zoom.us/rec/play/hTs1nGMN3ZHIZjuyuAqpX7v-Ti5x7PWSih_3LzczgIp-RtlO080LVW5Pjdq2KtrosN6Y-39_bqdauzA.iMfP2dDXkbtA5s1o?autoplay=true&startTime=1604498309000) - Exam 2 Review
+* [Wednesday's Recording](https://appstate.zoom.us/rec/share/F2kRrKezb7nbBaKPRNpAknqbowdDrZfxsOGPYh4uBPaqcD5Kgw8csfrqKuy3wxI1.w3rOaK1Rn3EQMCdj) - Exam 2 Review
 * [Thursday's Recording]() - Exam 2, No recording
 
 
