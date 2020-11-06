@@ -210,6 +210,8 @@ output:
 
 **Week 13: (Nov 09 -- Nov 13)**
 
+* [Exam 2 grades distribution](exam2grades.html) 
+
 * Chapter 5: Distributions of Functions of Random Variables (5.5, 5.6)
 * In Class Quiz 11 (Thursday, last 20 min of class)
 * [Practice problems for Q11 ](Homework.html)
