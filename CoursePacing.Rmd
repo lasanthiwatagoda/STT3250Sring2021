@@ -216,7 +216,7 @@ output:
 * In Class Quiz 11 (Thursday, last 20 min of class)
 * [Practice problems for Q11 ](Homework.html)
 
-
+*Lecture Recordings:*
 
 * [Tuesday's Recording]() - No class/recording (Thanks! Spectrum Internet..)
 * [Wednesday's Recording](https://appstate.zoom.us/rec/share/1Ml-pc5O-He45EW_fSsNeahUO-3r-ZFhVdrU6ARd49GpiUKe5G1yNv_FDyup4Oba.dX_jxuCvKcXdbz2u) 
@@ -229,6 +229,8 @@ output:
 * Chapter 5: Distributions of Functions of Random Variables (5.7, 6.3)
 * In Class Quiz 12 (Thursday, last 20 min of class)
 * [Practice problems for Q12 ](Homework.html)
+
+*Lecture Recordings:*
 
 * [Tuesday's Recording](https://appstate.zoom.us/rec/share/HKmUzAsYvpnlILSJbaLwrqU1jveM2LO7amp3H1fPJpuF-ZhfYXvJBK4VTR2iHJdt.IPIDg7VNgiLfEsyG) 
 
