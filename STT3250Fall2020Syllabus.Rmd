@@ -1,7 +1,7 @@
 ---
 title: "Syllabus: STT 3250 - Fundamentals of Probability"
 
-author: "Syllabus - Fall 2020"
+author: "Syllabus - Spring 2021"
 date: ""
 output:
   html_document:
@@ -10,13 +10,19 @@ output:
     theme: yeti
 ---
 
-**Instructor:**  Dr. Hasthika Rupasinghe
+**Instructor:**  Dr. Lasanthi Watagoda
+
+**Meeting time:** T & R 12:30 PM -- 1:45 PM, W 12:00 PM -- 12:50 PM 
+
+**Class room:** Virtual
+
+[`Click here to go to class`]() --- Password:  if required
 
 **Office:** Virtual  
 
-**Office Hours:** 9:30am --- 11:30am TR or by appointment
+**Office Hours:** TBA or by appointment
 
-[`Click here to go to office hours`](https://appstate.zoom.us/j/93441425949?pwd=aFgvbUhzZS9RbTlPcXlKcnRCRzhMdz09) --- Password: 063714 if required
+[`Click here to go to office hours`]() --- Password:  if required
 
 <!--Questions related to the class should be addressed with the [piazza account for STT 3851](https://piazza.com/appstate/spring2018/stat3851/home).-->
 
