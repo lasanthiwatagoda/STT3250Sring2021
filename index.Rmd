@@ -14,11 +14,12 @@ title: "Welcome"
 
 ## **Class Meetings**
 
-* [`Click here to go to class`]() --- Password:  if required
-* [`Click here to go to office hours (9:30 - 11.30 am, T and R)`]() --- Password:  if required
+* [`Click here to go to class`](https://appstate.zoom.us/j/94031315780?pwd=S0oxNVFsWmdPVjVFbHNabEgwZkVudz09) --- Password: 129090 if required
+
+* [`Click here to go to Office Hours` (Tuesday/Thursday 2-3pm, Wednesday 1-2pm)](https://appstate.zoom.us/j/91019025356?pwd=RnRMdGhpOEl1VkY5SXg0SHlKRTZxUT09) - password: 491316
 
 
-* Click [`here`]() to record your attendance.
+* Click [`here`](https://forms.gle/BFXPFeB29aFSkAoR9) to record your attendance.
 
  <!--* [Flow Control](./Rmarkdown/FlowControl.html)-->
 

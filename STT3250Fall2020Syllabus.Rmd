@@ -20,9 +20,9 @@ output:
 
 **Office:** Virtual  
 
-**Office Hours:** TBA or by appointment
+**Office Hours:** [Click here to go to Office Hours (Tuesday/Thursday 2-3pm, Wednesday 1-2pm)](https://appstate.zoom.us/j/91019025356?pwd=RnRMdGhpOEl1VkY5SXg0SHlKRTZxUT09) - password: 491316, or by appointment
 
-[`Click here to go to office hours`]() --- Password:  if required
+
 
 <!--Questions related to the class should be addressed with the [piazza account for STT 3851](https://piazza.com/appstate/spring2018/stat3851/home).-->
 
