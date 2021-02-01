@@ -42,10 +42,8 @@ output:
 *Lecture Recordings:*
 
 * [Tuesday's Recording](https://appstate.zoom.us/rec/share/0pXsbYY74dVA9VNO_h-AsEZZwQ6K3wdZsqa1QHXanOgN9QGIviRSOfuWaPpbC6Qw.vyfgYnMQJeKre4AA)
-
 * [Wednesday's Recording](https://appstate.zoom.us/rec/share/FsTGYWTsifNzEY3EFRRvBopYyaCOEhIUdoh2ucutIjrYq3aw-ny6QIzj3QBRy6TN.V9gjNSEuRPrafOak)
-
-* [Thursday's Recording]()
+* [Thursday's Recording](https://appstate.zoom.us/rec/share/U1nIU7w3Mf8yn6Wmhel9pNgDF5E3dch-gepn-6WyIUEXhnwFUKxlGWFQnRFs82w.tnnDS7_NAaJAy-tl)
 
 
 
@@ -68,7 +66,7 @@ output:
 * Chapter 2: Discrete Distributions (2.1)
 * In Class Quiz 02 (Thursday, last 20 min of class)
 
-* [Homework 3: Due Wednesday the 9th](Homework.html)
+* [Homework 3: Due Wednesday the 10th](Homework.html)
 
 *Lecture Recordings:*
 <!--
@@ -88,7 +86,7 @@ output:
 
 * Chapter 2: Discrete Distributions (2.2, 2.3)
 * In Class Quiz 03 (Thursday, last 20 min of class)
-* [Homework 4: Due Wednesday the 16th](Homework.html)
+* [Homework 4: Due Wednesday the 17th](Homework.html)
 
 *Lecture Recordings:*
 <!--
