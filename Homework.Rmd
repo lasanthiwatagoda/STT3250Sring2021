@@ -20,26 +20,28 @@ output:
 ***
 
 
-* *Homework 2*: Due Thursday, February 04th.
+* *Homework 2*: Due Wednesday, February 03rd.
     * Sec 1.2 - 2, 4 a) and b) only, 5, 9, 16
     * Sec 1.3 - 1, 3, 5, 7, 11, 15
-    * Sec 1.4 - 1, 3, 5, 7, 9, 17
+    
    
  
 ***  
-<!--
 
-* *Homework 3*: Due Friday, September 11th.
-    
+
+* *Homework 3*: Due Wednesday, February 10th.
+
+    * Sec 1.4 - 1, 3, 5, 7, 9, 17
     * Sec 1.5 - 1, 5, 7, 11
-    * Sec 2.1 - 3, 7, 10, 11, 13, 14
-  
+    
+    
 
     
 ***   
-
+<!--
 * *Homework 4*: Due Wednesday, September 16th.
     
+    * Sec 2.1 - 3, 7, 10, 11, 13, 14
     * Sec 2.2 - 3, 7, 9, 11
     * Sec 2.3 - 1, 3, 6, 9, 13, 19
    
@@ -52,7 +54,7 @@ output:
     * Sec 2.6 - 5, 10, 13
     
 <!--    
-    * Sec 2.6 - answers On paper with Lasanthi
+    * Sec 2.6 - answers on paper with Lasanthi
 -->
     
 <!--
