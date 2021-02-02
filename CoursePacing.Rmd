@@ -49,8 +49,7 @@ output:
 
 
 <!--
-* [Tuesday's Recording](https://appstate.zoom.us/rec/share/wuIsK7ru9WpJeomRyHDOZKViM5T3eaa8gCUXr_tYyE1TAgTLgSlsuv2jiSPYbjJo)   
-* [Wednesday's Recording](https://appstate.zoom.us/rec/share/x-ssc77gymhOT6PQwU_uf5M6N7rgeaa82yZL-KEMmU7hsSskwi6EwPUVRDaJQm1_)
+
 
 
 *Office hours Recordings:*
@@ -69,8 +68,10 @@ output:
 * [Homework 3: Due Wednesday the 10th](Homework.html)
 
 *Lecture Recordings:*
+
+* [Tuesday's Recording](https://appstate.zoom.us/rec/share/MRQDkIAKuasyst77cerh6fxwCjwvAgoC20wLL4e7plZHlSmAjqSgrHDRt5-Osf1O.kq7pEtww2P3Wmkr0)
+
 <!--
-* [Tuesday's Recording](https://appstate.zoom.us/rec/share/7uhlFpvJ-ltJe5XU4n2cAb89BJ61X6a8hCdK-fcMz0sB5cXoaiqqkeVdsIVLDqC7)
 * [Wednesday's Recording](https://appstate.zoom.us/rec/share/NOQaD2mL5qgfe3-g7t50-tvWRFOlPLE14xdI-XZKD3gjHNjruKMLhl5n0tsj4YOy.NY9gAs-daAqqeQU2)   
 * [Thursday's Recording](https://appstate.zoom.us/rec/share/rekyP_yaiCn_Q79g0hTFaIFAfybCMkIe6RCfTxNhKFB3ynChVXdMwOz89GqzEbI.5nQ0KU5aUeKtIrsv)  
 
