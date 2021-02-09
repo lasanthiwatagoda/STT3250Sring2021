@@ -90,6 +90,10 @@ output:
 * [Homework 4: Due Wednesday the 17th](Homework.html)
 
 *Lecture Recordings:*
+
+* [Tuesday's Recording](https://appstate.zoom.us/rec/share/wDkBsoYMd_oR5VOHQui7GXxJnh_UIzVfmFqXaVPJpQZ7pn4cmiADPxj2Z9mDu56e.Fr1gisS2ec7zOpZV)
+
+
 <!--
 * [Tuesday's Recording](https://appstate.zoom.us/rec/share/M_kvjs9OjO2e5T4H6FOFrJv0GDWi95OnqP80hOYVUMD9uqcRESJ-zfn9R3oItf52.e-uijmpPs6FwWs7d)
 * [Wednesday's Recording](https://appstate.zoom.us/rec/share/8x3kVjV1KTzlz-iNUj3T4sekVbkTmeeGklPWN2NYkR3k8XCfNrQu6hMcq5nILUv_.lO9dN08KaDtHzwDM)
