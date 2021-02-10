@@ -70,10 +70,8 @@ output:
 *Lecture Recordings:*
 
 * [Tuesday's Recording](https://appstate.zoom.us/rec/share/MRQDkIAKuasyst77cerh6fxwCjwvAgoC20wLL4e7plZHlSmAjqSgrHDRt5-Osf1O.kq7pEtww2P3Wmkr0)
-
-<!--
-* [Wednesday's Recording](https://appstate.zoom.us/rec/share/NOQaD2mL5qgfe3-g7t50-tvWRFOlPLE14xdI-XZKD3gjHNjruKMLhl5n0tsj4YOy.NY9gAs-daAqqeQU2)   
-* [Thursday's Recording](https://appstate.zoom.us/rec/share/rekyP_yaiCn_Q79g0hTFaIFAfybCMkIe6RCfTxNhKFB3ynChVXdMwOz89GqzEbI.5nQ0KU5aUeKtIrsv)  
+* [Wednesday's Recording](https://appstate.zoom.us/rec/share/FC32yjNY4SlbjwQbzjBMEFPpkaymgohl2LGblk5yJleSNr7KA3S-4N6RxTHfgz3n.nS6kkGMVhCGC_F72)   
+* [Thursday's Recording](https://appstate.zoom.us/rec/share/yp8vITnSpNu80ZjoUavVK_Lq49CjwtQZp6LHlsK3knq1XWAqaJ2kZN-ZHY2AFv_1.Cx_rPr4bL_flaxVC)  
 
 
 *Office hours Recordings:*
