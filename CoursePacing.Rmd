@@ -73,7 +73,7 @@ output:
 * [Wednesday's Recording](https://appstate.zoom.us/rec/share/FC32yjNY4SlbjwQbzjBMEFPpkaymgohl2LGblk5yJleSNr7KA3S-4N6RxTHfgz3n.nS6kkGMVhCGC_F72)   
 * [Thursday's Recording](https://appstate.zoom.us/rec/share/yp8vITnSpNu80ZjoUavVK_Lq49CjwtQZp6LHlsK3knq1XWAqaJ2kZN-ZHY2AFv_1.Cx_rPr4bL_flaxVC)  
 
-
+<!--
 *Office hours Recordings:*
 
 * [Thursday's Office hours](https://appstate.zoom.us/rec/share/XAo_PdlX5_RD0-PjsU_tqzJQIaTqWRENOFcTomIyYCJMEgbglVCFhH7QK1X7sVXJ.0xOhGcErMr82NwkH) --- HW 2 Help
@@ -90,7 +90,7 @@ output:
 *Lecture Recordings:*
 
 * [Tuesday's Recording](https://appstate.zoom.us/rec/share/wDkBsoYMd_oR5VOHQui7GXxJnh_UIzVfmFqXaVPJpQZ7pn4cmiADPxj2Z9mDu56e.Fr1gisS2ec7zOpZV)
-
+* [Wednesday's Recording](https://appstate.zoom.us/rec/share/Mt5xBZsrNS__cJeWZ3IS4ly7fqPQ0q8Nrs5BwLd2BT5PxICij3i0v48s_qLULkso.wUdLvCx7YG0pOguZ)
 
 <!--
 * [Tuesday's Recording](https://appstate.zoom.us/rec/share/M_kvjs9OjO2e5T4H6FOFrJv0GDWi95OnqP80hOYVUMD9uqcRESJ-zfn9R3oItf52.e-uijmpPs6FwWs7d)
