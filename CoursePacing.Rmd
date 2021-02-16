@@ -91,6 +91,7 @@ output:
 
 * [Tuesday's Recording](https://appstate.zoom.us/rec/share/wDkBsoYMd_oR5VOHQui7GXxJnh_UIzVfmFqXaVPJpQZ7pn4cmiADPxj2Z9mDu56e.Fr1gisS2ec7zOpZV)
 * [Wednesday's Recording](https://appstate.zoom.us/rec/share/Mt5xBZsrNS__cJeWZ3IS4ly7fqPQ0q8Nrs5BwLd2BT5PxICij3i0v48s_qLULkso.wUdLvCx7YG0pOguZ)
+* [Thursday's Recording]()
 
 <!--
 * [Tuesday's Recording](https://appstate.zoom.us/rec/share/M_kvjs9OjO2e5T4H6FOFrJv0GDWi95OnqP80hOYVUMD9uqcRESJ-zfn9R3oItf52.e-uijmpPs6FwWs7d)
@@ -106,9 +107,9 @@ output:
 
 **Week 5: (Feb 15 -- 19)**
 
-* Chapter 2: Discrete Distributions (2.4, 2.5, 2.6)
+* Chapter 2: Discrete Distributions (2.4)
 * In Class Quiz 04 (Thursday, last 20 min of class)
-* [Homework 5: Due Wednesday the 23th](Homework.html)
+* [Homework 5: Due Wednesday the 24th](Homework.html)
 
 *Lecture Recordings:*
 <!--
@@ -126,9 +127,9 @@ output:
 
 **Week 6: (Feb 22 -- 26)**
 
-* *Test 01: Thursday the Sep. 24th and Covers Ch 1 and 2.*
 
-* Chapter 3: Continuous Distributions (3.1)
+
+* Chapter 3: Continuous Distributions (2.5, 2.6, 3.1)
 * [Homework 6: Due Wednesday the 30th](Homework.html)
 
 *Lecture Recordings:*
@@ -141,6 +142,8 @@ output:
 ***
 
 **Week 7: (Mar 01 --  05)**
+
+* *Test 01: Thursday the ----- and Covers Ch 1 and 2.*
 
 * Chapter 3: Continuous Distributions (3.2)
 * In Class Quiz 06 (Thursday, last 20 min of class)
