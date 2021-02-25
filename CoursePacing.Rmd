@@ -132,22 +132,21 @@ output:
 
 * Chapter 2: Discrete Distributions (2.5, 2.6)
 * [Homework 6: Due Wednesday the 30th](Homework.html)
+* In Class Quiz 05 (Thursday, last 20 min of class)
 
 *Lecture Recordings:*
-<!--
-* [Tuesday's Recording](https://appstate.zoom.us/rec/share/v3DeSxeg9EhsuFjSr5snllO1pphmVLyaZCaqELDXFiNRQaa_L1dPAcjFt2agoKKi.EKzMCdN4x1WEzzuS)
-* [Wednesday's Recording](https://appstate.zoom.us/rec/share/Dp1SOw_0J5wSHkx6k24pNxI0TRT20c3aY3Bnh4AdxslNo8KlMVLr7qz2HxbW49Yu.ISXunfdbzKNYEaxd) 
-* Thursday's No Recording (Exam day)
--->
+
+* [Tuesday's Recording](https://appstate.zoom.us/rec/share/mbDYzxnbbEBq7LEfSzb7Bq6ZDazDWhDn2Qs_VbrP8jicE5X3x0hnM0iQ2dLZXPIX.9NWpAOnCCg-tuQkL)
+* [Wednesday's Recording](https://appstate.zoom.us/rec/share/oewNBjWHQUT-rX7ZvtylrSMmwZjZpk9i1EgSuuT3l8bhTb6o-U3npsJLJERd6kft.Kr87X2RuSnDR2xJ-) 
+* [Thursday's Recording]()
+
 
 ***
 
 **Week 7: (Mar 01 --  05)**
 
 * *Test 01: Thursday the ----- and Covers Ch 1 and 2.*
-
 * Chapter 3: Continuous Distributions (3.1, 3.2)
-* In Class Quiz 06 (Thursday, last 20 min of class)
 * [Homework 7: Due Wednesday the 07th](Homework.html)
 
 *Lecture Recordings:*
@@ -163,7 +162,7 @@ output:
 
 * Chapter 3: Continuous Distributions (3.3)
 * Chapter 4: Bivariate Distributions (4.1)
-* In Class Quiz 07 (Thursday, last 20 min of class)
+* In Class Quiz 06 (Thursday, last 20 min of class)
 * [Homework 8: Due Wednesday the 14th](Homework.html)
 
 *Lecture Recordings:*
@@ -178,7 +177,7 @@ output:
 **Week 9: (Mar 15 - 19)**
 
 * Chapter 4: Bivariate Distributions (4.2, 4.3)
-* In Class Quiz 08 (Thursday, last 20 min of class)
+* In Class Quiz 07 (Thursday, last 20 min of class)
 * [Homework 9: Due Friday Oct 223rd](Homework.html)
 
 *Lecture Recordings:*
