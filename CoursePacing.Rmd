@@ -146,21 +146,20 @@ output:
 **Week 7: (Mar 01 --  05)**
 
 * *Test 01: Thursday the ----- and Covers Ch 1 and 2.*
-* Chapter 3: Continuous Distributions (3.1, 3.2)
+* Chapter 3: Continuous Distributions (3.1)
 * [Homework 7: Due Wednesday the 07th](Homework.html)
 
 *Lecture Recordings:*
-<!--
-* [Tuesday's Recording](https://appstate.zoom.us/rec/share/LTwgKxBZO5eYrzxrRVRfExpq1hFfDwCIWatwrRPW0eAhkzoRwi0ru0yB0KruJZMg.L_AEs0guljbxkTch)
-* [Wednesday's Recording](https://appstate.zoom.us/rec/share/pgH_dkoqtmtV9NHiAHwDwku2U0xwjfwpvUCCoIjJx2HC668IJqUIW-VWesz9QMI9.OQoUcAuUT1X5Zidx)
-* [Thursday's Recording](https://appstate.zoom.us/rec/share/C7TtTJoGXLYnMRlCMrv7Nwu24ddaQl0_icswBn6W_xtTaXDfKEnnXpMD4n1dkTyJ.zITAA_5qDQPMWvhI)
--->
+
+* [Tuesday's Recording](https://appstate.zoom.us/rec/share/niRvrMzSDubpwPviOhenAPDii5KMoiYvc2vaC-FiwMYN7l1Wh9_JaZUOf_4Ti3gd.j9g8NWnvSWkJ_DmW)
+* [Wednesday's Recording](https://appstate.zoom.us/rec/share/Kv9tb-DyVdTHJif5bYLrzeGa0Kwso2Zq8bRS25ocp0-SfP0uC0y32O0WQsP_G1Cx.FyvTb0T4xINlvV7C)
+* [Thursday's Recording]()
 
 ***
 
 **Week 8: (Mar 08 -- 12)**
 
-* Chapter 3: Continuous Distributions (3.3)
+* Chapter 3: Continuous Distributions (3.2, 3.3)
 * Chapter 4: Bivariate Distributions (4.1)
 * In Class Quiz 06 (Thursday, last 20 min of class)
 * [Homework 8: Due Wednesday the 14th](Homework.html)
