@@ -147,7 +147,7 @@ output:
 
 * *Test 01: Thursday the ----- and Covers Ch 1 and 2.*
 * Chapter 3: Continuous Distributions (3.1)
-* [Homework 7: Due Wednesday the 07th](Homework.html)
+
 
 *Lecture Recordings:*
 
@@ -160,9 +160,9 @@ output:
 **Week 8: (Mar 08 -- 12)**
 
 * Chapter 3: Continuous Distributions (3.2, 3.3)
-* Chapter 4: Bivariate Distributions (4.1)
 * In Class Quiz 06 (Thursday, last 20 min of class)
-* [Homework 8: Due Wednesday the 14th](Homework.html)
+* [Homework 7: Due Wednesday the 14th](Homework.html)
+
 
 *Lecture Recordings:*
 <!--
@@ -174,10 +174,10 @@ output:
 ***
 
 **Week 9: (Mar 15 - 19)**
-
+* Chapter 4: Bivariate Distributions (4.1)
 * Chapter 4: Bivariate Distributions (4.2, 4.3)
 * In Class Quiz 07 (Thursday, last 20 min of class)
-* [Homework 9: Due Friday Oct 223rd](Homework.html)
+* [Homework 8: Due Wednesday the 21st](Homework.html)
 
 *Lecture Recordings:*
 <!--
