@@ -68,7 +68,7 @@ output:
 
 
 
-* *Homework 7*: Due Wednesday, March 10th.
+* *Homework 7*: Due Wednesday, March 17th.
     * Sec 3.1 - 2, 3, 4, 5, 7a), 8, 9, 11, 14, 15
     * Sec 3.2 - 1, 2, 3, 5, 8, 11 (skip parts d and e), 13 (skip part d), 14, 16, 21
  
