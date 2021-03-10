@@ -165,11 +165,12 @@ output:
 
 
 *Lecture Recordings:*
-<!--
-* [Tuesday's Recording](https://appstate.zoom.us/rec/share/DdWjzG1eZWN87Wrr6LEEGepeVaZ_JAe9WMESuRK183KniHukTZkdzR3qYffT3IRz.CE5leIEjeYwoLOIJ)
-* [Wednesday's Recording](https://appstate.zoom.us/rec/share/XLRuBMlFQA2mSwYiUDPzwtBEJXlUbQ69dSoPJOuYE2-lyzDw8YEnkjIF-iT3lQEh.SSrhmDsIKf6voGrV)
-* [Thursday's Recording](https://appstate.zoom.us/rec/share/XePy2e0YE7nbfYWDVZaWhtZyi5XALughz-VtC3dpmruskF1b7ikiY2yftLhSafKI.HePVDauxU0n_S4jg)
--->
+
+* [Tuesday's Recording](https://appstate.zoom.us/rec/share/_IF3FXXiB20LWP6Wg8bJHWhDyMxduD5Z4Otct-gxj-GuMmvhhbhjLMFCPljMX26H.QKAwp1jtmoqnd_mc)
+* [Wednesday's Recording]()
+* [Thursday's Recording]()
+
+
 
 ***
 
